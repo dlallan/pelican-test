@@ -1,6 +1,7 @@
 AUTHOR = 'Lord Pretzelton III, Esq.'
 SITENAME = 'Pretzel World'
 SITEURL = ''
+THEME = 'templates/pretzel-theme'
 
 PATH = 'content'
 

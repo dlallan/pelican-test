@@ -1,0 +1,8 @@
+html, body {
+    margin: 0.5%;
+    border: 1em dotted cornsilk;
+    padding: 1%;
+    font-size: 100%;
+    background-color: #9b580d;
+    color: #ffffff;
+}
